@@ -1,0 +1,14 @@
+body {
+    font-family: 'Lato';
+    font-weight: 500;
+}
+
+.dropdown-icon:after {
+    content: '';
+    background: url('../images/Dropdown_icon.svg');
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
