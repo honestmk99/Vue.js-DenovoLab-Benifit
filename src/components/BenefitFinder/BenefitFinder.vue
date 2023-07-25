@@ -16,7 +16,7 @@
         </h1>
       </div>
       <div class="flex flex-column gap-38">
-        <div class="-sm-px-50">
+        <div class="-sm-px-53">
           <div
             class="flex flex-column gap-20 -sm-gap-16 pb-48 -sm-pb-36 border-bottom"
           >
@@ -36,8 +36,7 @@
                 <h1
                   class="m-0 font-h6 font-semibold font-lato text-outline text-center"
                 >
-                  10-30 minutes questionnaire depending on how many questions
-                  you answer
+                  The more questions you answer, the more accurate the results
                 </h1>
               </div>
             </div>

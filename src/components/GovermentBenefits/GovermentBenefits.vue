@@ -6,12 +6,12 @@
       <h1
         class="m-0 text-white text-center font-lato font-h1 -sm-font-h3 font-semibold"
       >
-        Your Path to Government Benefits
+        Your path to Government Benefits
       </h1>
       <h1
         class="m-0 text-white text-center font-lato font-h2 font-nomal -sm-font-h5"
       >
-        Find Answers
+        Find answers
       </h1>
     </div>
     <div class="relative h-580 -sm-h-420">
@@ -19,7 +19,7 @@
       <div class="absolute right-triangle"></div>
     </div>
     <div
-      class="absolute rounded-32 flex flex-column gap-42 px-30 py-40 bg-white left-1-2 -translate-x-1-2 top-384 top-310 w-1130 -md-w-690 -sm-w-345 shadow-primary"
+      class="absolute rounded-32 flex flex-column gap-42 px-30 -sm-px-15 py-40 bg-white left-1-2 -translate-x-1-2 top-384 top-310 w-1130 -md-w-690 -sm-w-345 shadow-primary"
     >
       <div class="flex justify-content-between -md-flex-column">
         <h1 class="m-0 font-h3 font-nomal font-rato text-primary text-center">

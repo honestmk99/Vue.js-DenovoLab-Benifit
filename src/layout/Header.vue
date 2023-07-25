@@ -19,7 +19,7 @@
       <div
         class="justify-self-end border-red bg-white rounded-12 px-18 py-12 text-red font-h6 font-semibold"
       >
-        Benefit Finder
+        Benefit finder
       </div>
     </div>
   </header>

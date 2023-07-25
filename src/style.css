@@ -248,6 +248,11 @@ body {
     padding-right: 50px;
     padding-left: 50px;
   }
+
+  .-sm-px-53 {
+    padding-right: 53px;
+    padding-left: 53px;
+  }
 }
 
 /**
